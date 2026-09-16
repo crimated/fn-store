@@ -26,7 +26,7 @@ function Index() {
         <div className="store-container hero-grid">
           <div className="hero-copy">
             <span className="eyebrow" style={{ direction: "ltr" }}>
-  FN STORE <span>—</span>
+  FN STORE <span>——</span>
 </span>
 
 
