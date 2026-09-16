@@ -7,9 +7,9 @@ import { Button } from "@/components/ui/button";
 // project's social preview (explicit og:image or latest screenshot).
 export const Route = createFileRoute("/")({
   head: () => ({ meta: [
-    { title: "— FN STORE — خدمات ببجي        بمستوى مختلف" },
+    { title: "— FN STORE — خدمات ببجي بمستوى مختلف" },
     { name: "description", content: "متجر عربي لخدمات شحن شدات ببجي وتصعيد الحسابات بأسعار واضحة وطلب مباشر." },
-    { property: "og:title", content: "— FN STORE — خدمات ببجي      بمستوى مختلف" },
+    { property: "og:title", content: "— FN STORE — خدمات ببجي بمستوى مختلف" },
     { property: "og:description", content: "شحن شدات وتصعيد حسابات بخيارات واضحة وأسعار مباشرة." },
     { property: "og:type", content: "website" },
     { name: "twitter:card", content: "summary_large_image" },
@@ -26,7 +26,7 @@ function Index() {
         <div className="store-container hero-grid">
           <div className="hero-copy">
             <span className="eyebrow">FN STORE</span>
-            <h1>خدمات ببجي،<br /><em>بمستوى مختلف.</em></h1>
+            <h1>  خدمات ببجي،  <br /><em>  بمستوى مختلف.  </em></h1>
             <p>شحن شدات وتصعيد حسابات بخيارات واضحة وأسعار مباشرة.</p>
             <div className="hero-actions"><Button asChild variant="premium" size="store"><Link to="/top-up">شحن شدات <ArrowLeft /></Link></Button><Button asChild variant="quiet" size="store"><Link to="/ranking">تصعيد حسابات <Trophy /></Link></Button></div>
             <div className="trust-line"><MessageCircle /><span>طلبك يبدأ من الموقع وينتهي مباشرة عبر واتساب</span></div>
