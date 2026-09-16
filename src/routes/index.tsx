@@ -25,7 +25,7 @@ function Index() {
         <div className="hero-light" aria-hidden="true" />
         <div className="store-container hero-grid">
           <div className="hero-copy">
-           <span className="eyebrow">FN STORE</span>
+           <span className="eyebrow">-</span>
 
 <span className="eyebrow">FN STORE</span>
 
