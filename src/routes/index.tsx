@@ -25,9 +25,8 @@ function Index() {
         <div className="hero-light" aria-hidden="true" />
         <div className="store-container hero-grid">
           <div className="hero-copy">
-            <span className="eyebrow" style={{ direction: "ltr" }}>
-  FN STORE <span>——</span>
-</span>
+     <span>FN STORE</span>
+
 
 
 
