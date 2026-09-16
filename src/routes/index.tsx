@@ -25,14 +25,14 @@ function Index() {
         <div className="hero-light" aria-hidden="true" />
         <div className="store-container hero-grid">
           <div className="hero-copy">
-           <span className="eyebrow">-</span>
+           <span className="eyebrow"> </span>
 
 <span className="eyebrow">FN STORE</span>
 
 <h1>
   خدمات ببجي،
   <br />
-  <em style={{ display: "inline-block", marginTop: "15px" }}>
+  <em style={{ display: "inline-block", marginTop: "25px" }}>
     بمستوى مختلف.
   </em>
 </h1>
