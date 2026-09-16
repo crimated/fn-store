@@ -28,9 +28,7 @@ function Index() {
            <span className="eyebrow">FN STORE</span>
 
 <h1>
-  <span> خدمات ببجي </span>
-  <span> بمستوى مختلف .</span>
-</h1>
+  <span> خدمات ببجي ، بمستوى مختلف </span>
 
 
             <p>شحن شدات وتصعيد حسابات بخيارات واضحة وأسعار مباشرة.</p>
