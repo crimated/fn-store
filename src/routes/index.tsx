@@ -27,11 +27,11 @@ function Index() {
           <div className="hero-copy">
         
 
-<span className="eyebrow">
-  <span style={{ marginRight: "12px" }}>—</span>
-  FN STORE
-  <span style={{ marginLeft: "12px" }}>—</span>
-</span>
+<div style={{ display: "flex", alignItems: "center", gap: "12px" }}>
+  <span style={{ flex: 1, height: "1px", background: "currentColor" }} />
+  <span className="eyebrow">FN STORE</span>
+  <span style={{ flex: 1, height: "1px", background: "currentColor" }} />
+</div>
 
 
 <h1>
