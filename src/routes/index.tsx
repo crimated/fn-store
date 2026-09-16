@@ -31,7 +31,8 @@ function Index() {
  خدمات ببجي 
   
   <br />
-  <em className="second-line">بمستوى مختلف.</em>
+  <em className="second-line">
+    بمستوى مختلف.</em>
 </h1>
 
             <p>شحن شدات وتصعيد حسابات بخيارات واضحة وأسعار مباشرة.</p>
