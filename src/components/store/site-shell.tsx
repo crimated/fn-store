@@ -53,5 +53,5 @@ export function ContactSection() {
 }
 
 function Footer() {
-  return <footer className="site-footer"><div className="store-container"><div><b>FN STORE</b><p>شحن شدات • تصعيد حسابات</p></div><nav>{navigation.map((item) => <Link key={item.to} to={item.to}>{item.label}</Link>)}</nav><p dir="ltr">© 2026 FN Store</p></div></footer>;
+  return <footer className="site-footer"><div className="store-container"><div><b>FN STORE</b><p>شحن شدات • تصعيد حسابات</p></div><nav>{navigation.map((item) => <Link key={item.to} to={item.to}>{item.label}</Link>)}</nav><p dir="ltr">© ig : @zoq_iq </p></div></footer>;
 }
