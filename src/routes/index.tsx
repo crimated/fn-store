@@ -27,7 +27,7 @@ function Index() {
           <div className="hero-copy">
            <span className="eyebrow">   </span>
 
-<span className="eyebrow">FN STORE </span>
+<span className="eyebrow"> FN STORE </span>
 
 <h1>
   خدمات ببجي،
