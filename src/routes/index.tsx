@@ -28,12 +28,10 @@ function Index() {
            <span className="eyebrow">FN STORE</span>
 
 <h1>
- خدمات ببجي 
-  
-  <br />
-  <em className="second-line">
-    بمستوى مختلف.</em>
+  <span>خدمات ببجي،</span>
+  <span>بمستوى مختلف.</span>
 </h1>
+
 
             <p>شحن شدات وتصعيد حسابات بخيارات واضحة وأسعار مباشرة.</p>
             <div className="hero-actions"><Button asChild variant="premium" size="store"><Link to="/top-up">شحن شدات <ArrowLeft /></Link></Button><Button asChild variant="quiet" size="store"><Link to="/ranking">تصعيد حسابات <Trophy /></Link></Button></div>
