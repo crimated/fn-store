@@ -27,8 +27,16 @@ function Index() {
           <div className="hero-copy">
            <span className="eyebrow">FN STORE</span>
 
- <span className="eyebrow">FN STORE</span>
-            <h1>  خدمات ببجي،  <br /><em>  بمستوى مختلف.  </em></h1>
+<span className="eyebrow">FN STORE</span>
+
+<h1>
+  خدمات ببجي،
+  <br />
+  <em style={{ display: "inline-block", marginTop: "15px" }}>
+    بمستوى مختلف.
+  </em>
+</h1>
+
 
             <p>شحن شدات وتصعيد حسابات بخيارات واضحة وأسعار مباشرة.</p>
             <div className="hero-actions"><Button asChild variant="premium" size="store"><Link to="/top-up">شحن شدات <ArrowLeft /></Link></Button><Button asChild variant="quiet" size="store"><Link to="/ranking">تصعيد حسابات <Trophy /></Link></Button></div>
