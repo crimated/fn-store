@@ -28,7 +28,7 @@ function Index() {
            <span className="eyebrow">FN STORE</span>
 
 <h1>
-  خدمات ببجي،
+ 
   <br />
   <em className="second-line">بمستوى مختلف.</em>
 </h1>
