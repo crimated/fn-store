@@ -7,9 +7,9 @@ import { Button } from "@/components/ui/button";
 // project's social preview (explicit og:image or latest screenshot).
 export const Route = createFileRoute("/")({
   head: () => ({ meta: [
-    { title: "FN STORE — خدمات ببجي بمستوى مختلف" },
+    { title: "— FN STORE — خدمات ببجي        بمستوى مختلف" },
     { name: "description", content: "متجر عربي لخدمات شحن شدات ببجي وتصعيد الحسابات بأسعار واضحة وطلب مباشر." },
-    { property: "og:title", content: "FN STORE — خدمات ببجي بمستوى مختلف" },
+    { property: "og:title", content: "— FN STORE — خدمات ببجي      بمستوى مختلف" },
     { property: "og:description", content: "شحن شدات وتصعيد حسابات بخيارات واضحة وأسعار مباشرة." },
     { property: "og:type", content: "website" },
     { name: "twitter:card", content: "summary_large_image" },
