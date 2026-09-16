@@ -28,8 +28,8 @@ function Index() {
            <span className="eyebrow">FN STORE</span>
 
 <h1>
-  <span>خدمات ببجي،</span>
-  <span>بمستوى مختلف.</span>
+  <span> خدمات ببجي </span>
+  <span> بمستوى مختلف .</span>
 </h1>
 
 
