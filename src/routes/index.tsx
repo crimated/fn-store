@@ -21,17 +21,11 @@ export const Route = createFileRoute("/")({
 function Index() {
   return (
     <>
-      <section className="hero-section">
+     <section className="hero-section">
         <div className="hero-light" aria-hidden="true" />
         <div className="store-container hero-grid">
           <div className="hero-copy">
-        
-
-<div style={{ display: "flex", alignItems: "center", gap: "12px" }}>
-  <span style={{ flex: 1, height: "1px", background: "currentColor" }} />
-  <span className="eyebrow">FN STORE</span>
-  <span style={{ flex: 1, height: "1px", background: "currentColor" }} />
-</div>
+            <span className="eyebrow">FN STORE</span>
 
 
 <h1>
