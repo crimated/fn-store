@@ -26,6 +26,8 @@ function Index() {
         <div className="store-container hero-grid">
           <div className="hero-copy">
             <span className="eyebrow">FN STORE</span>
+<span className="eyebrow">—</span>
+
 
 
 <h1>
